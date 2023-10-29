@@ -1,28 +1,3 @@
-:root{ 
-  --clr-primary-400: #000; 
-  --clr-pure: #fff; 
-  
-  --clr-red-400: #f44336; 
-  --clr-gray: #757575; 
-  --clr-light-gray-200: #ddd; 
-  --clr-light-gray-100: #ccc;
-  
-
-
-  --padding-nav-link: .75rem 1.5rem; 
-
-
-  --fs-500: 1.87rem; 
-  --fs-400: 1.5rem; 
-  --fs-300: 1.12rem; 
-  --fs-200: .93rem; 
-  
-
-  --ff-primary: "Lato", sans-serif; 
-}
-
-
-
 *,
 *::before,
 *::after {
